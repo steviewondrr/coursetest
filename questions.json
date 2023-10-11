@@ -1,0 +1,44 @@
+[
+    {
+        "question": "Первый тестовый вопрос",
+        "answers": [
+            {
+                "name": "Ответ ван",
+                "correct": false
+            },
+            {
+                "name": "Ответ ту",
+                "correct": true
+            },
+            {
+                "name": "Ответ фри",
+                "correct": false
+            },
+            {
+                "name": "Ответ фор",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Второй тестовый вопрос",
+        "answers": [
+            {
+                "name": "Ответ ван",
+                "correct": false
+            },
+            {
+                "name": "Ответ ту",
+                "correct": false
+            },
+            {
+                "name": "Ответ фри",
+                "correct": true
+            },
+            {
+                "name": "Ответ фор",
+                "correct": false
+            }
+        ]
+    }
+]
